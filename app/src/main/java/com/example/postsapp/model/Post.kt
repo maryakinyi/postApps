@@ -1,4 +1,4 @@
-package com.example.postsapp
+package com.example.postsapp.model
 
 import retrofit2.http.Body
 
